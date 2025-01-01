@@ -111,7 +111,7 @@ experiences:
             - Bullet point
             - Bullet point
 
-certifications:
+#certifications:
       title: Certifications
       list:
         - name: CV Builder
@@ -181,7 +181,7 @@ projects:
 
 
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
