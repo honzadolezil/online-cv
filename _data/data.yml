@@ -31,7 +31,6 @@ sidebar:
     #mastodon:  # Please include your full Mastodon link here.
     #hackerrank: # Please provide your HackerRank username.
     #leetcode: # Please provide your LeetCode username.
-    facebook: https://www.facebook.com/profile.php?id=100008979735857&locale=cs_CZ
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
@@ -67,7 +66,9 @@ education:
         
         university: FEE CVUT
         time: 2023-present
-        details: (currently studying)
+        details: |
+            (currently studying)
+        
           
 experiences:
     title: Experiences
