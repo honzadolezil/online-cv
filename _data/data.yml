@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Jan Doležil
-    tagline: student at FEE CTU
+    tagline: Student at FEE CTU
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: honza.dolezil@gmail.com
-    phone: 012 345 6789
+    phone: 607 393 026
     #timezone: Europe/Prague # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Czech republic
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -62,18 +62,13 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: BSc Cybernetics and Robotics (currently studying)
+      - degree: BSc Cybernetics and Robotics 
+      
+        
         university: FEE CVUT
         time: 2023-present
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+        details: (currently studying)
+          
 experiences:
     title: Experiences
     info:
