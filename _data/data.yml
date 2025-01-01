@@ -62,11 +62,9 @@ education:
     title: Education
     info:
       - degree: BSc Cybernetics and Robotics 
-      
-        
         university: FEE CVUT
         time: 2023-present
-        details: |
+        details: 
             (currently studying)
         
           
