@@ -167,8 +167,7 @@ projects:
 
       - title: Multithreaded computing of Julia set in C
         link: "https://github.com/honzadolezil/Multithread-computation-of-Julia-set"
-        tagline: "Semester project for university: Develop a multithreaded application using Pthreads to compute and visualize the Julia set. The application will incorporate interprocess communication through named pipes for efficient data handling and coordination between threads."
-      
+        tagline: "Semester project: Implemented a multithreaded application using Pthreads to compute and visualize the Julia set. The program utilizes named pipes for interprocess communication to coordinate and exchange data between threads efficiently."
 
 
 
