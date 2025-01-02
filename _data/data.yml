@@ -165,7 +165,9 @@ projects:
         link: "https://mas.ricansko.eu/"
         tagline: "Complete redesign and development of a WordPress-based website and logo for a municipal agency. Focused on enhancing user experience, improving accessibility, and modernizing the design to better serve the community."
 
-
+      - title: Multithreaded computing of Julia set in C
+        link: "https://github.com/honzadolezil/Multithread-computation-of-Julia-set"
+        tagline: "Semester project for university: Develop a multithreaded application using Pthreads to compute and visualize the Julia set. The application will incorporate interprocess communication through named pipes for efficient data handling and coordination between threads."
       
 
 
