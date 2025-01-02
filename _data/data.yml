@@ -197,12 +197,7 @@ projects:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python 
-        level: 80%
-
-      - name: C
-        level: 70%
+    
 
     
 
